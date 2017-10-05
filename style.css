@@ -5,6 +5,7 @@ font-family:Bookman Old Style;
 font-size:30px;}
 
 
+
 ul li{list-style-type:none; 
 display:inline;
 float:center;
@@ -13,7 +14,8 @@ font-size:30px;
 }
 
 ul li a{text-decoration:none;
-color:white;}
+color:white;
+word-spacing:15px;}
 
 p{font-family:Bookman Old Style; 
 font-size:25px;
@@ -23,10 +25,4 @@ color:MidnightBlue;
 h1{color:white;font-size:30px}
 h2{color:MidnightBlue;font-size:30px}
 
-img{float:left; padding:2em;width:400px;height:600px;}
-i.2{float:bottom;width:400px;height:600px;}
-i.3{float:bottom;width:400px;height:600px;}
-i.4{float:bottom;width:400px;height:600px;}
-i.5{float:bottom;width:400px;height:600px;}
-i.6{float:bottom;width:400px;height:600px;}
-
+img{float:left;padding:2em;width:320px;height:400px;}
